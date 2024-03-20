@@ -1,1 +1,1 @@
-this is a sample of phishing and non-phishing emails tarnslated in Arabic. for full dataset contact the authors 
+this is a sample of phishing and non-phishing emails translated into Arabic. for the full dataset contact the authors 
